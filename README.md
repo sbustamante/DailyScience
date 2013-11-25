@@ -12,4 +12,4 @@ of python, specially its notebooks.
 
 Problems:
 -----------------------------------------------------------------------------------------
-1.    Running and Swimming Equivalence
+1.    Athletic-Swimming Equivalence
