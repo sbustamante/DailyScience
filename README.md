@@ -13,3 +13,4 @@ of python, specially its notebooks.
 Problems:
 -----------------------------------------------------------------------------------------
 1.    Athletic-Swimming Equivalence
+2.    Exoplanets Analysis
